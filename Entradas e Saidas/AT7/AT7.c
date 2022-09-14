@@ -35,5 +35,7 @@ int main()
     printf("O percentual de votos brancos foi: %.1f %c\n", percBrancos, p);
     printf("O percentual de votos nulos foi: %.1f %c\n", percNulos, p);
 
+    
     return 0;
 }
+
